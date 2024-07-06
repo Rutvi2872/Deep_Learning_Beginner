@@ -1,4 +1,4 @@
-# Deep_Learning_Beginner
+# Deep_Learning_Beginner to transformer
 
 1) ANN
 2) CNN
