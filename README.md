@@ -5,4 +5,4 @@
 3) RNN
 4) LSTM
 5) GRU
-6) Transormer
+6) transformer generative ai
